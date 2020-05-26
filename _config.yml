@@ -4,9 +4,9 @@
 
 # Site
 title: 一串星河
-subtitle: '个人博客'
+subtitle: '潇湘馆'
 description: '可时光啊，不听话，总催着人长大。'
-keywords: 
+keywords:
 author: 七念
 language: zh-CN
 timezone: ''
@@ -98,4 +98,7 @@ theme: maupassant
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@129.204.231.152:/home/git/blog.git #注意改成自己的服务器ip
+  branch: master
+  message:
