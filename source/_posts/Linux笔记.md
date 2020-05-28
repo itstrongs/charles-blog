@@ -1,6 +1,7 @@
 ---
 title: Linux笔记
 date: 2019-05-25 23:20:07
+categories: 编程
 tags:
 ---
 
