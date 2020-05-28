@@ -84,9 +84,9 @@ menu:
   - page: 关于
     directory: about/
     icon: fa-user
-  # - page: rss
-  #   directory: atom.xml
-  #   icon: fa-rss
+  - page: 爱好
+    directory: hobby/
+    icon: fa-rss
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
